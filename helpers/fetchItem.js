@@ -7,3 +7,4 @@ if (typeof module !== 'undefined') {
     fetchItem,
   };
 }
+// iniciando projeto
